@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react"
-// import { FaWhatsapp } from "react-icons/fa"
 import { FiClock, FiInfo } from "react-icons/fi"
+import { FaWhatsapp } from "react-icons/fa"
 import { Map, Marker, TileLayer } from "react-leaflet"
 import { useParams } from 'react-router-dom'
 
@@ -73,7 +73,7 @@ export default function Orphanage() {
             <div className="map-container">
               <Map
                 center={[orphanage.latitude, orphanage.longitude]}
-                zoom={16}
+                zoom={11}
                 style={{ width: '100%', height: 280 }}
                 dragging={false}
                 touchZoom={false}
@@ -103,12 +103,14 @@ export default function Orphanage() {
                 Segunda à Sexta <br />
                 {orphanage.opening_hours}
               </div>
+
               { orphanage.open_on_weekends ? (
                 <div className="open-on-weekends">
                   <FiInfo size={32} color="#39CC83" />
                   Atendemos <br />
                   fim de semana
                 </div>
+
               ) : (
                 <div className="open-on-weekends dont-open">
                   <FiInfo size={32} color="#FF6690" />
@@ -118,7 +120,10 @@ export default function Orphanage() {
               ) }
             </div>
 
-
+            <button type="button" className="contact-button">
+              <FaWhatsapp size={20} color="#FFF" />
+              Entrar em contato
+            </button>
           </div>
         </div>
       </main>

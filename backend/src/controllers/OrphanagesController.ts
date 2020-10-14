@@ -1,8 +1,8 @@
-import { Request, response, Response } from 'express'
+import { Request, Response } from 'express'
 import { getRepository } from 'typeorm'
+import * as Yup from 'yup'
 import orphanageView from '../views/orphanages_view'
 import Orphanage from '../models/Orphanage' 
-import * as Yup from 'yup'
  
 export default {
     async index(req: Request, res: Response) {
@@ -53,7 +53,7 @@ export default {
             about,
             instructions,
             opening_hours,
-            open_on_weekends,
+            open_on_weekends: open_on_weekends === 'true',
             images
         })
     
@@ -76,9 +76,11 @@ export default {
             abortEarly: false
         })
 
+        const orphanage = orphanagesRepository.create(data);
+
         await orphanagesRepository.save(data)
     
-        return res.status(201).json(data)
+        return res.status(201).json(orphanage)
     }
 }
  
