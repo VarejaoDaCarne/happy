@@ -1,10 +1,9 @@
-
 <h1 align="center" >
-    <img alt="Logo Happy" src="/.github/images/logo.svg" />
+  <img alt="Logo Happy" src="/.github/images/logo.svg" />
 </h1>
 
 <h3 align="center">
-    🙂 Leve felicidade para o mundo.
+  🙂 Leve felicidade para o mundo.
 </h3>
 
 <p align="center">
@@ -16,19 +15,20 @@
     <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/happy?color=%4d0000">
   </a>
     
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
-   <a href="https://github.com/grioos/happy/stargazers">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
+
+  <a href="https://github.com/grioos/happy/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/happy?style=social">
   </a>
 
 </p>
 
 <h1 align="center">
-    <img alt="NextLevelWeek#03" title="#NextLevelWeek#03" src="/.github/images/landing.png" />
+  <img alt="NextLevelWeek#03" title="#NextLevelWeek#03" src="/.github/images/landing.png" />
 </h1>
 
 <h4 align="center"> 
-	🚧  Happy 🙂 Em construção... 🚧
+  🚧  Happy 🙂 Em construção... 🚧
 </h4>
 
 <p align="center">
@@ -36,11 +36,10 @@
  	<a href="#-funcionalidades">Funcionalidades</a> •
 	<a href="#-layout">Layout</a> • 
  	<a href="#-como-executar-o-projeto">Como executar</a> • 
-  	<a href="#-tecnologias">Tecnologias</a> • 
+  <a href="#-tecnologias">Tecnologias</a> • 
  	<a href="#-autor">Autor</a> • 
  	<a href="#user-content--licença">Licença</a>
 </p>
-
 
 ## 💻 Sobre o projeto
 
@@ -52,7 +51,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week#03** oferecida pela [Rock
 
 ## ⚙️ Funcionalidades
 
-🚧  Em construção... 🚧
+🚧 Em construção... 🚧
 
 ---
 
@@ -71,12 +70,13 @@ Projeto desenvolvido durante a **NLW - Next Level Week#03** oferecida pela [Rock
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
-1. Backend (pasta backend) 
+
+1. Backend (pasta backend)
 2. Frontend (pasta web)
 3. Mobile (pasta mobile)
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### 🎲 Rodando o Backend
@@ -95,10 +95,11 @@ $ cd backend
 # Instale as dependências
 $ yarn
 
-# Execute a aplicação 
+# Execute a aplicação
 $ yarn dev
 
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+# O servidor inciará na porta:3333 - acesse http://localhost:3333
+
 ```
 
 #### 🧭 Rodando a aplicação web
@@ -153,49 +154,49 @@ $ yarn start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Server** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
 
--   **[Express](https://expressjs.com/)**
--   **[Multer](https://github.com/expressjs/multer)**
--   **[Typeorm](https://typeorm.io/#/)**
--   **[Yup](https://github.com/jquense/yup)**
--   **[Express Async Errors](https://www.npmjs.com/package/express-async-errors)**
--   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
--   **[KnexJS](http://knexjs.org/)**
--   **[SQLite](https://github.com/mapbox/node-sqlite3)**
--   **[Ts-node](https://github.com/TypeStrong/ts-node)**
+- **[Express](https://expressjs.com/)**
+- **[Multer](https://github.com/expressjs/multer)**
+- **[Typeorm](https://typeorm.io/#/)**
+- **[Yup](https://github.com/jquense/yup)**
+- **[Express Async Errors](https://www.npmjs.com/package/express-async-errors)**
+- **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
+- **[KnexJS](http://knexjs.org/)**
+- **[SQLite](https://github.com/mapbox/node-sqlite3)**
+- **[Ts-node](https://github.com/TypeStrong/ts-node)**
 
-> Veja o arquivo  [package.json](https://github.com/grioos/happy/blob/master/backend/package.json)
+> Veja o arquivo [package.json](https://github.com/grioos/happy/blob/master/backend/package.json)
 
-#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Website** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
 
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[React Icons](https://react-icons.github.io/react-icons/)**
--   **[Axios](https://github.com/axios/axios)**
--   **[Leaflet](https://leafletjs.com/)**
--   **[React Leaflet](https://react-leaflet.js.org/)**
--   **[React Dom](https://pt-br.reactjs.org/docs/react-dom.html)**
--   **[React Scripts](https://github.com/facebook/create-react-app/tree/master/packages/react-scripts)**
+- **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+- **[React Icons](https://react-icons.github.io/react-icons/)**
+- **[Axios](https://github.com/axios/axios)**
+- **[Leaflet](https://leafletjs.com/)**
+- **[React Leaflet](https://react-leaflet.js.org/)**
+- **[React Dom](https://pt-br.reactjs.org/docs/react-dom.html)**
+- **[React Scripts](https://github.com/facebook/create-react-app/tree/master/packages/react-scripts)**
 
-> Veja o arquivo  [package.json](https://github.com/grioos/happy/blob/master/web/package.json)
+> Veja o arquivo [package.json](https://github.com/grioos/happy/blob/master/web/package.json)
 
-#### **Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Mobile** ([React Native](http://www.reactnative.com/) + [TypeScript](https://www.typescriptlang.org/))
 
--   **[Expo](https://expo.io/)**
--   **[Expo Font](https://www.npmjs.com/package/expo-font)**
--   **[Expo StatusBar](https://docs.expo.io/versions/latest/sdk/status-bar/)**
--   **[React Navigation](https://reactnavigation.org/)**
--   **[React Native Maps](https://github.com/react-native-community/react-native-maps)**
--   **[React Dom](https://github.com/facebook/react/tree/master/packages/react-dom)**
--   **[React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler)**
--   **[React Native Maps](https://github.com/react-native-maps/react-native-maps)**
--   **[React Native Reanimated](https://github.com/software-mansion/react-native-reanimated)**
--   **[React Native Safe Area Context](https://github.com/th3rdwave/react-native-safe-area-context)**
--   **[React Native Screens](https://github.com/software-mansion/react-native-screens)**
--   **[Axios](https://github.com/axios/axios)**
--   **[Expo Status Bar](https://www.npmjs.com/package/expo-status-bar)**
+- **[Expo](https://expo.io/)**
+- **[Expo Font](https://www.npmjs.com/package/expo-font)**
+- **[Expo StatusBar](https://docs.expo.io/versions/latest/sdk/status-bar/)**
+- **[React Navigation](https://reactnavigation.org/)**
+- **[React Native Maps](https://github.com/react-native-community/react-native-maps)**
+- **[React Dom](https://github.com/facebook/react/tree/master/packages/react-dom)**
+- **[React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler)**
+- **[React Native Maps](https://github.com/react-native-maps/react-native-maps)**
+- **[React Native Reanimated](https://github.com/software-mansion/react-native-reanimated)**
+- **[React Native Safe Area Context](https://github.com/th3rdwave/react-native-safe-area-context)**
+- **[React Native Screens](https://github.com/software-mansion/react-native-screens)**
+- **[Axios](https://github.com/axios/axios)**
+- **[Expo Status Bar](https://www.npmjs.com/package/expo-status-bar)**
 
-> Veja o arquivo  [package.json](https://github.com/grioos/happy/blob/master/mobile/package.json)
+> Veja o arquivo [package.json](https://github.com/grioos/happy/blob/master/mobile/package.json)
 
 ---
 
@@ -215,7 +216,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Gabriel Rios</b></sub> 🚀
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-grioos-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grioos/)](https://www.linkedin.com/in/grioos/) 
+[![Linkedin Badge](https://img.shields.io/badge/-grioos-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grioos/)](https://www.linkedin.com/in/grioos/)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.al.rio@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.al.rio@gmail.com)](mailto:gabriel.al.rio@gmail.com)
 
 ---
