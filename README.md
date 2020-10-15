@@ -52,8 +52,6 @@ Projeto desenvolvido durante a **NLW - Next Level Week#03** oferecida pela [Rock
 
 ## ⚙️ Funcionalidades
 
----
-
 🚧  Em construção... 🚧
 
 ---
