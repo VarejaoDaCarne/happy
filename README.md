@@ -1,6 +1,6 @@
 
 <h1 align="center" >
-    <img alt="Logo Happy" src="/we/src/images/logo.svg" />
+    <img alt="Logo Happy" src="/.github/images/logo.svg" />
 </h1>
 
 <h3 align="center">
@@ -52,28 +52,19 @@ Projeto desenvolvido durante a **NLW - Next Level Week#03** oferecida pela [Rock
 
 ## ⚙️ Funcionalidades
 
-	🚧  Em construção... 🚧
+---
+
+🚧  Em construção... 🚧
 
 ---
 
 ## 🎨 Layout
 
-###  Mobile
-
-<p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/screenshots/landing-mobile.png" width="200px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/screenshots/give-classes-mobile.png" width="200px">
-  
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/screenshots/teacher-list-mobile.png" width="200px">
-</p>
-
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/screenshots/study-page.png" width="400px">
-	
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/screenshots/teacher-register.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanages-map.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanage-details.png" width="400px">
 </p>
 
 ---
@@ -139,7 +130,7 @@ $ yarn start
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/grioos/mobile
+$ git clone https://github.com/grioos/happy
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd happy
@@ -169,7 +160,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Multer](https://github.com/expressjs/multer)**
 -   **[Typeorm](https://typeorm.io/#/)**
 -   **[Yup](https://github.com/jquense/yup)**
--   **[Express Async Errors]https://www.npmjs.com/package/express-async-errors)**
+-   **[Express Async Errors](https://www.npmjs.com/package/express-async-errors)**
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
 -   **[KnexJS](http://knexjs.org/)**
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
