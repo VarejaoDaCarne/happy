@@ -33,7 +33,6 @@
 
 <p align="center">
 	<a href="#-sobre-o-projeto">Sobre</a> •
- 	<a href="#-funcionalidades">Funcionalidades</a> •
 	<a href="#-layout">Layout</a> • 
  	<a href="#-como-executar-o-projeto">Como executar</a> • 
   <a href="#-tecnologias">Tecnologias</a> • 
@@ -49,20 +48,22 @@ Projeto desenvolvido durante a **NLW - Next Level Week#03** oferecida pela [Rock
 
 ---
 
-## ⚙️ Funcionalidades
-
-🚧 Em construção... 🚧
-
----
-
 ## 🎨 Layout
+
+### Mobile
+
+<p align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-map.png" width="100%">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-create.png" width="100%">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-detail.png" width="100%">
+</p>
 
 ### Web
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanages-map.png" width="100%">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanage-create.png" width="100%">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanage-details.png" width="100%">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanages-map.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanage-create.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanage-details.png" width="400px">
 </p>
 
 ---
