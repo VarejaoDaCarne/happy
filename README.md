@@ -53,17 +53,17 @@ Projeto desenvolvido durante a **NLW - Next Level Week#03** oferecida pela [Rock
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-map.png" width="200px">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-create.png" width="200px">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-detail.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-map.png" width="300px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-create.png" width="300px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-detail.png" width="300px">
 </p>
 
 ### Web
 
 <p>
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanages-map.png" width="300px">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanage-create.png" width="300px">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanage-details.png" width="300px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanages-map.png" width="100%">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanage-create.png" width="100%">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanage-details.png" width="100%">
 </p>
 
 ---
