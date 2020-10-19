@@ -53,9 +53,9 @@ Projeto desenvolvido durante a **NLW - Next Level Week#03** oferecida pela [Rock
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-map.png" width="300px">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-create.png" width="300px">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-detail.png" width="300px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-map.png" width="250px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-create.png" width="250px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/mobile-detail.png" width="250px">
 </p>
 
 ### Web
