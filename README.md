@@ -60,7 +60,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week#03** oferecida pela [Rock
 
 ### Web
 
-<p align="center">
+<p>
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanages-map.png" width="400px">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanage-create.png" width="400px">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="/.github/images/orphanage-details.png" width="400px">
